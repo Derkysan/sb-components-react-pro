@@ -7,4 +7,4 @@ yarn add dsan-sb-components
 ```
 
 ### Demo:
-[Storyboook Components](https://github.com/Derkysan/sb-components-react-pro/deployments/activity_log?environment=github-pages) 
+[Storyboook Components](https://derkysan.github.io/sb-components-react-pro/?path=/story/example-introduction--page) 
